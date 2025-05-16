@@ -1,0 +1,1 @@
+data = {'map_size': (16, 16), 'difficulty': 'easy', 'music_volume': 100, 'sound_volume': 100, 'show_hovermessage': True, 'skip_startani': False, 'close_directly': False, 'muted': False, 'use_cheat': False, 'cheat_gap': 3}

@@ -1,0 +1,21 @@
+========== Sat Mar 16 22:03:08 2024 ==========
+ Traceback (most recent call last):
+  File "C:\Python\12.扫雷（反物质版）\updater.py", line 20, in <module>
+    sys.exit()
+SystemExit
+
+========== Sat Mar 16 22:04:35 2024 ==========
+ Traceback (most recent call last):
+  File "updater.py", line 42, in <module>
+    subprocess.run(['rm', f.name])
+  File "subprocess.py", line 548, in run
+  File "subprocess.py", line 1026, in __init__
+  File "subprocess.py", line 1538, in _execute_child
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+========== Sat Mar 16 22:18:06 2024 ==========
+ Traceback (most recent call last):
+  File "C:\Python\12.扫雷（反物质版）\updater.py", line 20, in <module>
+    sys.exit()
+SystemExit
+
